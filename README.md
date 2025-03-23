@@ -18,7 +18,7 @@ Allow interviewers to define a list of questions based on specific skills/compet
 ## Proposed Solution / Architecture Diagram
 ![Screenshot 2025-03-23 231215](https://github.com/user-attachments/assets/6a47ed6c-7acd-4798-8be7-091f343fe474)
 
-![3687a973-5f87-445b-a833-51c6f26e7e88](https://github.com/user-attachments/assets/593f8004-03f5-45bb-886e-7b48724ab354)
+![f841d730-0954-462d-9b9c-25cef8e69adc](https://github.com/user-attachments/assets/7b218886-7f8f-4913-9d7a-74a20bee4493)
 
 
 
@@ -47,8 +47,5 @@ DATA COLLECTION - 16 DAYS
 BUDGET - 75000
 
 
-## Technology Stack
 
-
-## Dependencies
 
